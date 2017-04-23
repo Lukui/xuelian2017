@@ -1,0 +1,10 @@
+name: Community
+type: theme
+description: 'A custom theme for UCECF'
+core: 8.x
+base theme: bartik
+regions:
+  header: Header
+  content: Content
+  sidebar_first: 'First sidebar'
+  footer: 'Footer'
