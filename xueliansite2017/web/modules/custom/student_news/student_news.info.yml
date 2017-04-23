@@ -1,0 +1,5 @@
+name: Student news
+type: module
+description: Xue zi xin wen
+core: 8.x
+package: Custom

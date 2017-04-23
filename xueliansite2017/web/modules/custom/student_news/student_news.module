@@ -1,0 +1,36 @@
+<?php
+
+/**
+ * @file
+ * Contains student_news.module.
+ */
+
+use Drupal\Core\Routing\RouteMatchInterface;
+
+/**
+ * Implements hook_help().
+ */
+function student_news_help($route_name, RouteMatchInterface $route_match) {
+  switch ($route_name) {
+    // Main module help for the student_news module.
+    case 'help.page.student_news':
+      $output = '';
+      $output .= '<h3>' . t('About') . '</h3>';
+      $output .= '<p>' . t('Xue zi xin wen') . '</p>';
+      return $output;
+
+    default:
+  }
+}
+
+/**
+ * Implements hook_theme().
+ */
+function student_news_theme() {
+  return [
+    'student_news' => [
+      'template' => 'student_news',
+      'render element' => 'children',
+    ],
+  ];
+}

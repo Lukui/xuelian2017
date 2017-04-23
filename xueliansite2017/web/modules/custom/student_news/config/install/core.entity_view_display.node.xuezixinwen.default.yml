@@ -1,0 +1,75 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.field.node.xuezixinwen.body
+    - field.field.node.xuezixinwen.field_fabushijian
+    - field.field.node.xuezixinwen.field_shengao
+    - field.field.node.xuezixinwen.field_sheying
+    - field.field.node.xuezixinwen.field_xiaodui
+    - field.field.node.xuezixinwen.field_zhaopian
+    - field.field.node.xuezixinwen.field_zuo
+    - node.type.xuezixinwen
+  module:
+    - datetime
+    - image
+    - text
+    - user
+id: node.xuezixinwen.default
+targetEntityType: node
+bundle: xuezixinwen
+mode: default
+content:
+  body:
+    label: hidden
+    type: text_default
+    weight: 101
+    settings: {  }
+    third_party_settings: {  }
+  field_fabushijian:
+    weight: 103
+    label: above
+    settings:
+      format_type: medium
+      timezone_override: ''
+    third_party_settings: {  }
+    type: datetime_default
+  field_shengao:
+    weight: 107
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    type: string
+  field_sheying:
+    weight: 105
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    type: string
+  field_xiaodui:
+    weight: 106
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    type: string
+  field_zhaopian:
+    weight: 102
+    label: above
+    settings:
+      image_style: ''
+      image_link: ''
+    third_party_settings: {  }
+    type: image
+  field_zuo:
+    weight: 104
+    label: above
+    settings:
+      link_to_entity: false
+    third_party_settings: {  }
+    type: string
+  links:
+    weight: 100
+hidden: {  }

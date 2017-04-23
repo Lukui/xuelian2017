@@ -1,0 +1,18 @@
+langcode: en
+status: true
+dependencies:
+  config:
+    - field.storage.node.field_zuo
+    - node.type.xuezixinwen
+id: node.xuezixinwen.field_zuo
+field_name: field_zuo
+entity_type: node
+bundle: xuezixinwen
+label: 作者
+description: ''
+required: false
+translatable: false
+default_value: {  }
+default_value_callback: ''
+settings: {  }
+field_type: string

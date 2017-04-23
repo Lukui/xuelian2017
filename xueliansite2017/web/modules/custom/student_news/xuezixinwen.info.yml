@@ -1,0 +1,15 @@
+name: 学子新闻
+description: 'Provides 学子新闻 content type and related configuration. '
+type: module
+core: 8.x
+dependencies:
+  - datetime
+  - field
+  - file
+  - image
+  - menu_ui
+  - node
+  - path
+  - text
+  - user
+  - views

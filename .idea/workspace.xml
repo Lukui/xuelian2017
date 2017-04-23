@@ -2,8 +2,28 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d6cb0d7-a1f5-4fe8-a568-8d60dd7daeaa" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xueliansite2017/web/themes/custom/community/community.info.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xueliansite2017/web/themes/custom/community/templates/page.html.twig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xueliansite2017/web/modules/custom/student_news/config/install/core.base_field_override.node.xuezixinwen.title.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xueliansite2017/web/modules/custom/student_news/config/install/core.entity_form_display.node.xuezixinwen.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xueliansite2017/web/modules/custom/student_news/config/install/core.entity_view_display.node.xuezixinwen.default.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xueliansite2017/web/modules/custom/student_news/config/install/core.entity_view_display.node.xuezixinwen.teaser.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xueliansite2017/web/modules/custom/student_news/config/install/field.field.node.xuezixinwen.body.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xueliansite2017/web/modules/custom/student_news/config/install/field.field.node.xuezixinwen.field_fabushijian.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xueliansite2017/web/modules/custom/student_news/config/install/field.field.node.xuezixinwen.field_shengao.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xueliansite2017/web/modules/custom/student_news/config/install/field.field.node.xuezixinwen.field_sheying.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xueliansite2017/web/modules/custom/student_news/config/install/field.field.node.xuezixinwen.field_xiaodui.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xueliansite2017/web/modules/custom/student_news/config/install/field.field.node.xuezixinwen.field_zhaopian.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xueliansite2017/web/modules/custom/student_news/config/install/field.field.node.xuezixinwen.field_zuo.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xueliansite2017/web/modules/custom/student_news/config/install/field.storage.node.field_fabushijian.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xueliansite2017/web/modules/custom/student_news/config/install/field.storage.node.field_shengao.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xueliansite2017/web/modules/custom/student_news/config/install/field.storage.node.field_sheying.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xueliansite2017/web/modules/custom/student_news/config/install/field.storage.node.field_xiaodui.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xueliansite2017/web/modules/custom/student_news/config/install/field.storage.node.field_zhaopian.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xueliansite2017/web/modules/custom/student_news/config/install/field.storage.node.field_zuo.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xueliansite2017/web/modules/custom/student_news/config/install/node.type.xuezixinwen.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xueliansite2017/web/modules/custom/student_news/config/install/views.view.xuezixinwen.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xueliansite2017/web/modules/custom/student_news/xuezixinwen.features.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/xueliansite2017/web/modules/custom/student_news/xuezixinwen.info.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="xuelian2017.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -38,11 +58,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="page.html.twig" pinned="false" current-in-tab="true">
+      <file leaf-file-name="page.html.twig" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/xueliansite2017/web/themes/custom/community/templates/page.html.twig">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="node.type.xuezixinwen.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/xueliansite2017/web/modules/custom/student_news/config/install/node.type.xuezixinwen.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xuezixinwen.features.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/xueliansite2017/web/modules/custom/student_news/xuezixinwen.features.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -177,6 +217,36 @@
               <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xuelian2017" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xuelian2017" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="xueliansite2017" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="custom" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="student_news" />
+              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
@@ -192,6 +262,7 @@
       <recent name="$PROJECT_DIR$/xueliansite2017/web/themes/custom" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/xueliansite2017/web/modules/custom/student_news" />
       <recent name="$PROJECT_DIR$/xueliansite2017/web/themes/community" />
     </key>
   </component>
@@ -235,18 +306,18 @@
       <option name="presentableId" value="Default" />
       <updated>1486930508001</updated>
       <workItem from="1486930511920" duration="1361000" />
-      <workItem from="1492933306255" duration="7231000" />
+      <workItem from="1492933306255" duration="8982000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8592000" />
+    <option name="totallyTimeSpent" value="10343000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1855" height="1056" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.096495956" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16657682" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3295099" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -293,6 +364,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xueliansite2017/web/modules/custom/student_news/config/install/node.type.xuezixinwen.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/xueliansite2017/web/modules/custom/student_news/xuezixinwen.features.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
